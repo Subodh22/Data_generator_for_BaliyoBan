@@ -1,0 +1,23 @@
+{
+    "workout_celeb": {
+        "Name": "Jay Cutler",
+        "Ratings": "4",
+        "Routine": [
+            {
+                "Day 1": "Chest"
+            },
+            {
+                "Day 2": "Arm"
+            },
+            {
+                "Day 3": "Back"
+            },
+            {
+                "Day 4": "Shoulders"
+            },
+            {
+                "Day 5": "Legs "
+            }
+        ]
+    }
+}

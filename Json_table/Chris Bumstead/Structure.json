@@ -1,0 +1,29 @@
+{
+    "workout_celeb": {
+        "Name": "Chris Bumstead",
+        "Ratings": "4",
+        "Routine": [
+            {
+                "Day 1": "Back"
+            },
+            {
+                "Day 2": "Chest and Biceps"
+            },
+            {
+                "Day 3": "Hamstrings and Glutes"
+            },
+            {
+                "Day 4": "Shoulder and Triceps"
+            },
+            {
+                "Day 5": "Quads"
+            },
+            {
+                "Day 6": "Rest"
+            },
+            {
+                "Day 7": "Rest 2"
+            }
+        ]
+    }
+}

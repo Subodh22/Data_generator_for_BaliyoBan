@@ -1,0 +1,17 @@
+{
+    "workout_celeb": {
+        "Name": "Arnold Schwarzenegger",
+        "Ratings": "4",
+        "Routine": [
+            {
+                "Day 1": "Chest and Back"
+            },
+            {
+                "Day 2": "Shoulders and Arms"
+            },
+            {
+                "Day 3": "Legs and Lower Back "
+            }
+        ]
+    }
+}

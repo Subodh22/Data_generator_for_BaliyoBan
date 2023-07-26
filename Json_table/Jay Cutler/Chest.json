@@ -1,0 +1,252 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "30 degree incline bench press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "30 degree incline dumbbell press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Machine pec dec",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Flat DB fly",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Flat bench press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Cable crossover",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Lying dumbbell pullover",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "40"
+                    }
+                ]
+            }
+        ]
+    }
+}

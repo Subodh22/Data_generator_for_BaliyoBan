@@ -1,0 +1,20 @@
+{
+    "workout_celeb": {
+        "Name": "Ronnie Coleman",
+        "Ratings": "4",
+        "Routine": [
+            {
+                "Day 1": "UPPER BODY WORKOUT 1"
+            },
+            {
+                "Day 2": "LOWER BODY WORKOUT 1"
+            },
+            {
+                "Day 3": "UPPER BODY WORKOUT 2"
+            },
+            {
+                "Day 4": "LOWER BODY WORKOUT 2"
+            }
+        ]
+    }
+}

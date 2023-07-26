@@ -1,0 +1,253 @@
+{
+    "workout_celeb": {
+        "Name": "Chris Bumstead",
+        "Ratings": "4",
+        "Routine": {
+            "Monday": {
+                "Name of day": "Legday",
+                "Exercises": [
+                    {
+                        "Name": "Deadlifts",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Bent-Over Rows",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Wide Grip Latoulldowns",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Straight Arm Pulldowns",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Dumbbell Rows",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Machine Rows",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Hyper Extensions",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "to failure",
+                                "Weight": "23"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "nan",
+                                "Weight": ""
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "plank",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "time",
+                                "Rest Time": "30sec",
+                                "Volume": "2 mins",
+                                "Weight": ""
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "time",
+                                "Rest Time": "30sec",
+                                "Volume": "3 mins",
+                                "Weight": ""
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "bench press",
+                        "Set Type": "supersets",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "dumbell curls",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins ",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins ",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "cat pose",
+                        "Set Type": "supersets",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "time",
+                                "Rest Time": "2 mins",
+                                "Volume": "2 mins",
+                                "Weight": ""
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "time",
+                                "Rest Time": "2 mins",
+                                "Volume": "20 sec",
+                                "Weight": ""
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "bench up right press",
+                        "Set Type": "",
+                        "Sets": [
+                            {
+                                "Name": "Set 1",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "10",
+                                "Weight": "24"
+                            },
+                            {
+                                "Name": "Set 2",
+                                "Type": "reps",
+                                "Rest Time": "2 mins",
+                                "Volume": "8",
+                                "Weight": "30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

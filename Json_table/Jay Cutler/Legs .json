@@ -1,0 +1,357 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Machine leg extension",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Leg press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "46"
+                    }
+                ]
+            },
+            {
+                "Name": "Machine hack squat",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "46"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "48"
+                    }
+                ]
+            },
+            {
+                "Name": "Barbell lunges",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "46"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "45"
+                    }
+                ]
+            },
+            {
+                "Name": "Machine front squats",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "46"
+                    }
+                ]
+            },
+            {
+                "Name": "Machine leg extension",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "46"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "48"
+                    }
+                ]
+            },
+            {
+                "Name": "Seated leg curl",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "46"
+                    }
+                ]
+            },
+            {
+                "Name": "Lying leg curl",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "48"
+                    }
+                ]
+            },
+            {
+                "Name": "Romanian deadlift",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "46"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Kneeling leg curl",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "46"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "48"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "12",
+                        "Weight": "45"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Barbell Clean and Press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "55"
+                    }
+                ]
+            },
+            {
+                "Name": "Dumbbell Lateral Raise",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "15"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "15"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "15"
+                    }
+                ]
+            },
+            {
+                "Name": "Upright Row",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Military Press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "55"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "65"
+                    }
+                ]
+            },
+            {
+                "Name": "Standing Barbell Curl",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "25"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "30"
+                    }
+                ]
+            },
+            {
+                "Name": "Seated Dumbbell Curl",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "20"
+                    }
+                ]
+            },
+            {
+                "Name": "Close Grip Bench Press",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "55"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "65"
+                    }
+                ]
+            },
+            {
+                "Name": "Standing Barbell Tricep Extension",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Wrist Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "10"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "12"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "12"
+                    }
+                ]
+            },
+            {
+                "Name": "Reverse Wrist Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "10"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "12"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "12"
+                    }
+                ]
+            },
+            {
+                "Name": "Reverse Crunch",
+                "Set Type": "",
+                "Type": "reps",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "25",
+                        "Weight": "body"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "25",
+                        "Weight": "body"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "25",
+                        "Weight": "body"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "25",
+                        "Weight": "body"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "25",
+                        "Weight": "body"
+                    }
+                ]
+            }
+        ]
+    }
+}
