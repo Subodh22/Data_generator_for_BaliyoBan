@@ -1,12 +1,12 @@
 import json
 import pandas as pd
-influencer_name ="Jay Cutler"
+influencer_name ="Chris Bumstead"
 def super_set_seperate(table_data,index):
   
     super_exo=[ ]
      
     loper=[index,index+1]
-    loop_time=len(table_data.loc[index])-3
+    loop_time=len(table_data.loc[index])-5
   
     for i in range(1,loop_time):
         for indexer in loper:
@@ -101,6 +101,8 @@ def generate_json(table_data):
                 "Name": row["Exercise"],
             "Set Type": row["Set Type"] if not pd.isnull(row["Set Type"]) else "",
                     "Type": row["Type"],
+                    "MachineSettings":row["Machine Setting"],
+                    "videoId":row["VideoId"],
                 "Sets": []
             }
             
@@ -108,7 +110,7 @@ def generate_json(table_data):
             
             
                 
-            loop_time=len(table_data.loc[index])-3
+            loop_time=len(table_data.loc[index])-5
             for i in range(1,loop_time):
                 set_data = {
                     "Name": f"Set {i}",
@@ -118,9 +120,9 @@ def generate_json(table_data):
                     "Weight": ""
                 }
                 
-                volume_weight = str((row[i+3])).split("*")
-                print(str((row[i+3])))
-                if(str((row[i+3])))== "nan":
+                volume_weight = str((row[i+5])).split("*")
+                print(str((row[i+5])))
+                if(str((row[i+5])))== "nan":
                     break
                 if len(volume_weight) == 1:
                     if volume_weight[0].lower() == "to failure":

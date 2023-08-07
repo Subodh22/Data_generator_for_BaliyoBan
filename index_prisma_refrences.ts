@@ -2,7 +2,7 @@ import {PrismaClient} from '@prisma/client'
 const fs = require('fs')
 const prisma = new PrismaClient()
  
-const influencer_name = "Jay Cutler"
+const influencer_name = "Chris Bumstead"
 async function Uploader(){
    const structure =fs.readFileSync('../Json_table/'+influencer_name+'/Structure.json','utf8')
    const structure_data=JSON.parse(structure);
@@ -43,6 +43,8 @@ async function Uploader(){
                         name:exe["Name"],
                         type:exe["Type"],
                         setType:exe["Set Type"],
+                        videoId:exe["videoId"],
+                        machineSettings:exe["MachineSettings"],
                         routine: {connect: {id:routine.id}},
                         order:exerciseOrder
         
