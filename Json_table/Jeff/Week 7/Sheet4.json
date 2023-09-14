@@ -1,0 +1,286 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "1\" Block Pull",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "McCDaAsSeRc",
+                "1RM": "90",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "8",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "6",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "4",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "240",
+                        "Volume": "4",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Dip",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "Nqh7q3zDCoQ",
+                "1RM": "",
+                "RPE": "7",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 7",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "One-Arm Row",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "lueEJGjTuPQ",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Triceps Pressdown 21s",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "AMR2l17Sm6M",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 7",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "7",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "DB Lateral Raise",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "5pU_3a*M6ww",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "15",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "15",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "15",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "15",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "120",
+                        "Volume": "15",
+                        "Weight": "50"
+                    }
+                ]
+            }
+        ]
+    }
+}

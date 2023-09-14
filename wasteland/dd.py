@@ -59,9 +59,9 @@ def generate_json(table_data):
             volume_weight = row[i].split("*")
             
             if len(volume_weight) == 1:
-                if volume_weight[0].lower() == "to failure":
-                    set_data["Volume"] = "to failure"
-                    set_data["Weight"] = "to failure"
+                if volume_weight[0].lower() == "Failure":
+                    set_data["Volume"] = "Failure"
+                    set_data["Weight"] = "Failure"
                 else:
                     set_data["Volume"] = volume_weight[0]
             else:
@@ -81,7 +81,7 @@ table_data = pd.DataFrame({
     "Set 1": ["10*24", "", "", "10*24", "", "10*24", "10*24"],
     "Set 2": ["8*40", "", "", "8*40", "", "8*40", "8*40"],
     "Set 3": ["8*30", "", "", "8*30", "", "8*30", "8*30"],
-    "Set 4": ["to failure", "", "", "to failure", "", "to failure", "to failure"]
+    "Set 4": ["Failure", "", "", "Failure", "", "Failure", "Failure"]
 })
 
 # Generate JSON

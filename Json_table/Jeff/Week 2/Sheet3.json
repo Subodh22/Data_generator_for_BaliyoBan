@@ -1,0 +1,287 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Reset Deadlift",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "McCDaAsSeRc",
+                "1RM": "80",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "5",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "3",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "3",
+                        "Weight": "80"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "3",
+                        "Weight": "82.5"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "3",
+                        "Weight": "85"
+                    }
+                ]
+            },
+            {
+                "Name": "Hack Squat",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "Nqh7q3zDCoQ",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "14",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "SingleLeg Hip Thrust",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "lueEJGjTuPQ",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "A1: GluteHam Raise [or Nordic Ham Curl]",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "AMR2l17Sm6M",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "0",
+                        "Volume": "8",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "0",
+                        "Volume": "7",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "0",
+                        "Volume": "6",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "A2: Prisoner Back Extension",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "5pU_3aXM6ww",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "18",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "16",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Unilateral Standing Calf Raise",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "I27Vqiqd1cQ",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "9",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "8",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "LSit Hold",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "EBui4Bt5N7o",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20SEC",
+                        "Weight": ""
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20SEC",
+                        "Weight": ""
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20SEC",
+                        "Weight": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

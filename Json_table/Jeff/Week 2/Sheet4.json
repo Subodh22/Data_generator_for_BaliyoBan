@@ -1,0 +1,298 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "OmniGrip Lat Pulldown",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "McCDaAsSeRc",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Barbell Overhead Press",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "Nqh7q3zDCoQ",
+                "1RM": "77",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "6",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "77.5"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "80"
+                    },
+                    {
+                        "Name": "Set 6",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "4",
+                        "Weight": "82.5"
+                    }
+                ]
+            },
+            {
+                "Name": "ChestSupported Row",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "lueEJGjTuPQ",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "CloseGrip Bench Press",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "AMR2l17Sm6M",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "12",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    },
+                    {
+                        "Name": "Set 5",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "10",
+                        "Weight": "50"
+                    }
+                ]
+            },
+            {
+                "Name": "Seated Face Pull",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "5pU_3aXM6ww",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "18",
+                        "Weight": "45"
+                    }
+                ]
+            },
+            {
+                "Name": "Dumbbell Lateral Raise 21s",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "I27Vqiqd1cQ",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "21",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "21",
+                        "Weight": "45"
+                    }
+                ]
+            },
+            {
+                "Name": "Incline Dumbbell Curl",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "EBui4Bt5N7o",
+                "1RM": "",
+                "RPE": "9",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "30",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "28",
+                        "Weight": "45"
+                    }
+                ]
+            },
+            {
+                "Name": "Neck Flexion/Extension (Optional)",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "EBui4Bt5N7o",
+                "1RM": "",
+                "RPE": "8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20",
+                        "Weight": "40"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20",
+                        "Weight": "45"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "180",
+                        "Volume": "20",
+                        "Weight": "50"
+                    }
+                ]
+            }
+        ]
+    }
+}

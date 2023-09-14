@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-influencer_name ="Chris Bumstead"
+influencer_name ="Arnold Schwarzenegger"
 def super_set_seperate(table_data,index):
   
     super_exo=[ ]
@@ -38,8 +38,8 @@ def super_set_seperate(table_data,index):
             if(volume_weight)=="nan":
                 break
             if len(volume_weight) == 1:
-                if volume_weight[0].lower() == "to failure":
-                    set_data["Volume"] = "to failure"
+                if volume_weight[0].lower() == "Failure":
+                    set_data["Volume"] = "Failure"
                    
                 else:
                     set_data["Volume"] = volume_weight[0]
@@ -125,8 +125,8 @@ def generate_json(table_data):
                 if(str((row[i+5])))== "nan":
                     break
                 if len(volume_weight) == 1:
-                    if volume_weight[0].lower() == "to failure":
-                        set_data["Volume"] = "to failure"
+                    if volume_weight[0].lower() == "Failure":
+                        set_data["Volume"] = "Failure"
                     
                     else:
                         set_data["Volume"] = volume_weight[0]

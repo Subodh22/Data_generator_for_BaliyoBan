@@ -2,7 +2,7 @@ import {PrismaClient} from '@prisma/client'
 const fs = require('fs')
 const prisma = new PrismaClient()
  
-const influencer_name = "Chris Bumstead"
+const influencer_name = "Arnold Schwarzenegger"
 async function Uploader(){
    const structure =fs.readFileSync('../Json_table/'+influencer_name+'/Structure.json','utf8')
    const structure_data=JSON.parse(structure);
@@ -11,9 +11,12 @@ async function Uploader(){
     data:{
         name:structure_data.workout_celeb.Name,
         ratings:structure_data.workout_celeb.Ratings,
-        
+        planType:"plan"
+            
     }
    })
+   
+   
    
    let routineOrder:number=0
    for (const routineData of structure_data.workout_celeb.Routine){
@@ -63,7 +66,8 @@ async function Uploader(){
                     volume:seter["Volume"],
                     weight:seter["Weight"],
                     exercise :{connect:{id:exercise.id}},
-                    order:setOrder
+                    order:setOrder,
+                    routineId: routine.id
                 }
             })
             setOrder++
@@ -88,6 +92,10 @@ async function deleteAll(){
     await prisma.routine.deleteMany()
     await prisma.userToWork.deleteMany()
     await prisma.personalSets.deleteMany()
+    await prisma.userSetHistory.deleteMany()
+    await prisma.sessions.deleteMany()
+   
+
     const getter=await prisma.workoutCeleb.deleteMany()
     console.log("dd")
     console.log(getter)
@@ -101,22 +109,12 @@ async function getWorkout(){
     }
    })
     
-   const workout = await prisma.workoutCeleb.findUnique({
-    where :{id:25},
-    include:{
-        routines:{
-            include:{
-                exercises:{
-                    include:{
-                        sets:true
-                    }
-                }
-            }
-        }
+   const workout = await prisma.exercise.findMany( )
+   if (workout !== null   ){
+    for(const i of workout){
+        console.log(i["name"] )
     }
-   })
-   if (workout !== null && workout.routines !== null ){
-    console.log(workout["routines"][0]["exercises"])
+
    }
 }
 console.log("ddss")

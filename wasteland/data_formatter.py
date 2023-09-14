@@ -39,8 +39,8 @@ def generate_json(table_data):
             volume_weight = str((row[i])).split("*")
             
             if len(volume_weight) == 1:
-                if volume_weight[0].lower() == "to failure":
-                    set_data["Volume"] = "to failure"
+                if volume_weight[0].lower() == "Failure":
+                    set_data["Volume"] = "Failure"
                    
                 else:
                     set_data["Volume"] = volume_weight[0]

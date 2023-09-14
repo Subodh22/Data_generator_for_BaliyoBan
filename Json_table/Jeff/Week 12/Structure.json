@@ -1,0 +1,23 @@
+{
+    "workout_celeb": {
+        "Name": "Jeff",
+        "Ratings": "4",
+        "Routine": [
+            {
+                "Day 1": "Sheet1"
+            },
+            {
+                "Day 2": "Sheet2"
+            },
+            {
+                "Day 3": "Sheet3"
+            },
+            {
+                "Day 4": "Sheet4"
+            },
+            {
+                "Day 5": "Sheet5"
+            }
+        ]
+    }
+}

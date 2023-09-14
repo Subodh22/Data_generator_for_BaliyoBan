@@ -86,7 +86,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": ""
                         }
                     },
@@ -98,7 +98,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": ""
                         }
                     },
@@ -182,7 +182,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": ""
                         }
                     },
@@ -194,7 +194,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": ""
                         }
                     },
@@ -295,7 +295,7 @@
                                 "Name": "Set 4",
                                 "Type": "reps",
                                 "Rest Time": "2 mins",
-                                "Volume": "to failure",
+                                "Volume": "Failure",
                                 "Weight": "23"
                             }
                         ]
@@ -414,7 +414,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": "34"
                         }
                     },
@@ -426,7 +426,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins ",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": "44"
                         }
                     },
@@ -522,7 +522,7 @@
                             "Name": "Set 4",
                             "Type": "reps",
                             "Rest Time": "2 mins",
-                            "Volume": "to failure",
+                            "Volume": "Failure",
                             "Weight": "44"
                         }
                     }
