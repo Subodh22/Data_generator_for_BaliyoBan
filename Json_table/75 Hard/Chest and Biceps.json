@@ -1,0 +1,164 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Incline Dumbbell Bench Press",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "3zK-QobOkHg",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "55"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "65"
+                    },
+                    {
+                        "Name": "Set 4",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "70"
+                    }
+                ]
+            },
+            {
+                "Name": "Smith Machine Bench Press",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "lYoSmkd-vOQ",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "10",
+                        "Weight": "65"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "70"
+                    }
+                ]
+            },
+            {
+                "Name": "Push-ups",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "y7PBQ2fYbxY",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "Failure",
+                        "Weight": ""
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "Failure",
+                        "Weight": ""
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "Failure",
+                        "Weight": ""
+                    }
+                ]
+            },
+            {
+                "Name": "Barbell Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "N6paU6TGFWU",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "30"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "35"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "40"
+                    }
+                ]
+            },
+            {
+                "Name": "Hammer Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "OPhgvwKBOwI",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "10",
+                        "Weight": "20"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "25"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "30"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -3,164 +3,180 @@
         "Name of day": "Legday",
         "Exercises": [
             {
-                "Name": "Lying Leg Curls",
+                "Name": "Dumbbell Shoulder Press",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "ANKSmhT0dTk",
+                "videoId": "dyv6g4xBFGU",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Dumbbell Lateral Raises",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "JIhbYYA1Q90",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
                         "Volume": "15",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90",
                         "Volume": "15",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 4",
-                        "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90",
                         "Volume": "15",
                         "Weight": "60"
                     }
                 ]
             },
             {
-                "Name": "Straight Legged Deadlifts",
+                "Name": "Upright Rows",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "q3mVYFBaLq4",
+                "videoId": "KAEE2N4YnBE",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "20",
+                        "Rest Time": "90",
+                        "Volume": "15",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "20",
+                        "Rest Time": "90",
+                        "Volume": "12",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 4",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
+                        "Rest Time": "90",
+                        "Volume": "12",
                         "Weight": "60"
                     }
                 ]
             },
             {
-                "Name": "Standing Leg Curls",
+                "Name": "Rope Face Pulls",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "FJS5LrcE4XQ",
+                "videoId": "eFxMixk_qPQ",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "5",
+                        "Rest Time": "90",
+                        "Volume": "15",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "5",
-                        "Weight": "60"
-                    }
-                ]
-            },
-            {
-                "Name": "Reverse Hack Squats",
-                "Set Type": "",
-                "Type": "reps",
-                "MachineSettings": "#",
-                "videoId": "pAPdBbD67m8",
-                "Sets": [
-                    {
-                        "Name": "Set 1",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "20",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 2",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "20",
+                        "Rest Time": "90",
+                        "Volume": "12",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 4",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
+                        "Rest Time": "90",
+                        "Volume": "12",
                         "Weight": "60"
                     }
                 ]
             },
             {
-                "Name": "Single Legged Glute Pushdowns",
+                "Name": "EZ-Bar Skull Crushers",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "BsOg0iBKs6A",
+                "videoId": "jR7Y5YcugYc",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90",
                         "Volume": "15",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
+                        "Rest Time": "90",
+                        "Volume": "12",
                         "Weight": "60"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Bench Dips",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "S8vL5DK04fU",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
                         "Volume": "12",
                         "Weight": "60"
                     }

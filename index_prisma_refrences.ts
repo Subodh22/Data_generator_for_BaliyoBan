@@ -2,20 +2,49 @@ import {PrismaClient} from '@prisma/client'
 const fs = require('fs')
 const prisma = new PrismaClient()
  
-const influencer_name = "Arnold Schwarzenegger"
+const influencer_name = "Strength Training Program"
+let dayCounter:number = 1
+let planCounter:number = 0
 async function Uploader(){
-   const structure =fs.readFileSync('../Json_table/'+influencer_name+'/Structure.json','utf8')
+    const workout_celeb =await prisma.workoutCeleb.create({
+        data:{
+            name:influencer_name,
+            ratings:"2",
+            planType:"plan"
+                
+        }
+       })
+
+    const weekStructure =  fs.readFileSync('../Json_table/'+influencer_name+'/Week_Structure.json','utf8')
+    const Week_data=JSON.parse(weekStructure);
+
+    for (const weekD of Week_data.WeekStructure.Struc)
+    {
+        planCounter+=1
+        let NameWeek = (weekD.name.split("."))[0]
+         console.log(NameWeek)
+         console.log(weekD)
+    
+
+
+   const structure =fs.readFileSync('../Json_table/'+influencer_name+"/"+NameWeek+'/Structure.json','utf8')
    const structure_data=JSON.parse(structure);
     
-   const workout_celeb =await prisma.workoutCeleb.create({
+    
+  
+   const Cplan = await prisma.plan.create({
     data:{
-        name:structure_data.workout_celeb.Name,
-        ratings:structure_data.workout_celeb.Ratings,
-        planType:"plan"
-            
+        planName:NameWeek,
+        workoutId:workout_celeb.id,
+        currentStatus:"Loading",
+        currentWeek:"Week 1",
+        order:planCounter
+        
+        
+         
+        
     }
-   })
-   
+})
    
    
    let routineOrder:number=0
@@ -28,15 +57,17 @@ async function Uploader(){
 
     const routine = await prisma.routine.create({
         data:{
-            weekRoutine:weekNames,
+            weekRoutine:"Day"+dayCounter,
             workoutCeleb:{connect:{id:workout_celeb.id}},
-            order:routineOrder
+            order:routineOrder,
+            planId:Cplan.id
         }
 
     })
+    dayCounter+=1
     
    
-    const sequence = fs.readFileSync('../Json_table/'+influencer_name+'/'+weekNames+'.json','utf8')
+    const sequence = fs.readFileSync('../Json_table/'+influencer_name+'/'+NameWeek+'/'+weekNames+'.json','utf8')
     const sequence_data = JSON.parse(sequence)
     let exerciseOrder :number=0
     for (const exe of sequence_data["Sequence_init"]["Exercises"]){
@@ -83,7 +114,7 @@ async function Uploader(){
    }
  
     
-   
+}
 }
 
 async function deleteAll(){
@@ -94,6 +125,11 @@ async function deleteAll(){
     await prisma.personalSets.deleteMany()
     await prisma.userSetHistory.deleteMany()
     await prisma.sessions.deleteMany()
+    await prisma.personalExercise.deleteMany()
+    await prisma.userDetails.deleteMany()
+    await prisma.testers.deleteMany()
+    await prisma.plan.deleteMany()
+    await prisma.personalPlan.deleteMany()
    
 
     const getter=await prisma.workoutCeleb.deleteMany()
@@ -116,8 +152,11 @@ async function getWorkout(){
     }
 
    }
+   console.log(get)
 }
 console.log("ddss")
+
+
 Uploader().
     then(async()=>
     {

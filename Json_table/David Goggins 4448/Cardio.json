@@ -1,0 +1,23 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Running",
+                "Set Type": "",
+                "Type": "running",
+                "MachineSettings": "#",
+                "videoId": "McCDaAsSeRc",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "running",
+                        "Rest Time": "nan",
+                        "Volume": "45",
+                        "Weight": "Bodyweight"
+                    }
+                ]
+            }
+        ]
+    }
+}

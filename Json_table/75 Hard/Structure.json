@@ -1,19 +1,19 @@
 {
     "workout_celeb": {
-        "Name": "Chris Bumstead",
+        "Name": "75 Hard",
         "Ratings": "4",
         "Routine": [
             {
                 "Day 1": "Back"
             },
             {
-                "Day 2": "Chest and Biceps"
+                "Day 2": "Hamstrings and Glutes"
             },
             {
-                "Day 3": "Hamstrings and Glutes"
+                "Day 3": "Chest and Biceps"
             },
             {
-                "Day 4": "Shoulder and Triceps"
+                "Day 4": "Shoulders and triceps"
             },
             {
                 "Day 5": "Quads"

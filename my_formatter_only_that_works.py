@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-influencer_name ="Arnold Schwarzenegger"
+influencer_name ="75 HardB"
 def super_set_seperate(table_data,index):
   
     super_exo=[ ]
@@ -176,6 +176,7 @@ Structure_data = {
         "workout_celeb": {
             "Name": influencer_name,
             "Ratings": "4",
+           
             "Routine": []}}
 
 Structure_data["workout_celeb"]["Routine"]=Structure

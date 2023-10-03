@@ -1,0 +1,150 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Lying Leg Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "ANKSmhT0dTk",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Straight Legged Deadlifts",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "q3mVYFBaLq4",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "20",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "20",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Standing Leg Curls",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "FJS5LrcE4XQ",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "5",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "5",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Reverse Hack Squats",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "pAPdBbD67m8",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "20",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "20",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Single Legged Glute Pushdowns",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "BsOg0iBKs6A",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "12",
+                        "Weight": "60"
+                    }
+                ]
+            }
+        ]
+    }
+}

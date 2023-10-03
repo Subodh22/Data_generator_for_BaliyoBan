@@ -3,152 +3,152 @@
         "Name of day": "Legday",
         "Exercises": [
             {
-                "Name": "Leg Extensions",
+                "Name": "Deadlifts",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "1BIIORHJ2XI",
+                "videoId": "McCDaAsSeRc",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "55"
-                    },
-                    {
-                        "Name": "Set 2",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 3",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "65"
-                    }
-                ]
-            },
-            {
-                "Name": "Squats",
-                "Set Type": "",
-                "Type": "reps",
-                "MachineSettings": "#",
-                "videoId": "MLoZuAkIyZI",
-                "Sets": [
-                    {
-                        "Name": "Set 1",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "8",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 2",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "8",
-                        "Weight": "65"
-                    }
-                ]
-            },
-            {
-                "Name": "Leg Press",
-                "Set Type": "",
-                "Type": "reps",
-                "MachineSettings": "#",
-                "videoId": "wa9UCsNWVo0",
-                "Sets": [
-                    {
-                        "Name": "Set 1",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "40",
-                        "Weight": "65"
-                    },
-                    {
-                        "Name": "Set 2",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "30",
-                        "Weight": "70"
-                    },
-                    {
-                        "Name": "Set 3",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "20",
-                        "Weight": "60"
-                    },
-                    {
-                        "Name": "Set 4",
-                        "Type": "reps",
-                        "Rest Time": "120",
+                        "Rest Time": "90 sec",
                         "Volume": "10",
-                        "Weight": "50"
-                    }
-                ]
-            },
-            {
-                "Name": "Leg Extensions",
-                "Set Type": "",
-                "Type": "reps",
-                "MachineSettings": "#",
-                "videoId": "1BIIORHJ2XI",
-                "Sets": [
-                    {
-                        "Name": "Set 1",
-                        "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "60"
+                        "Weight": "60kg"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "50"
+                        "Rest Time": "90 sec",
+                        "Volume": "8",
+                        "Weight": "65kg"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "15",
-                        "Weight": "70"
+                        "Rest Time": "90 sec",
+                        "Volume": "8",
+                        "Weight": "70kg"
                     }
                 ]
             },
             {
-                "Name": "Standing Lunges",
+                "Name": "Bent-Over Rows",
                 "Set Type": "",
                 "Type": "reps",
                 "MachineSettings": "#",
-                "videoId": "LCWWq3Lx2Sk",
+                "videoId": "Nqh7q3zDCoQ",
                 "Sets": [
                     {
                         "Name": "Set 1",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "8",
-                        "Weight": "55"
+                        "Rest Time": "90 sec",
+                        "Volume": "12",
+                        "Weight": "55kg"
                     },
                     {
                         "Name": "Set 2",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "8",
-                        "Weight": "60"
+                        "Rest Time": "90 sec",
+                        "Volume": "10",
+                        "Weight": "60kg"
                     },
                     {
                         "Name": "Set 3",
                         "Type": "reps",
-                        "Rest Time": "120",
-                        "Volume": "6",
-                        "Weight": "65"
+                        "Rest Time": "90 sec",
+                        "Volume": "10",
+                        "Weight": "65kg"
+                    }
+                ]
+            },
+            {
+                "Name": "Wide Grip Lat Pulldowns",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "lueEJGjTuPQ",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "15",
+                        "Weight": "55kg"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "15",
+                        "Weight": "60kg"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "12",
+                        "Weight": "65kg"
+                    }
+                ]
+            },
+            {
+                "Name": "Straight Arm Pulldowns",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "AMR2l17Sm6M",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "15",
+                        "Weight": "60kg"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "15",
+                        "Weight": "65kg"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "12",
+                        "Weight": "70kg"
+                    }
+                ]
+            },
+            {
+                "Name": "Dumbbell Rows",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "5pU_3aXM6ww",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "15",
+                        "Weight": "50kg"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "12",
+                        "Weight": "55kg"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90 sec",
+                        "Volume": "10",
+                        "Weight": "60kg"
                     }
                 ]
             }

@@ -1,0 +1,120 @@
+{
+    "Sequence_init": {
+        "Name of day": "Legday",
+        "Exercises": [
+            {
+                "Name": "Squats",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "MLoZuAkIyZI",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "65"
+                    }
+                ]
+            },
+            {
+                "Name": "Leg Press",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "wa9UCsNWVo0",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "40",
+                        "Weight": "65"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "30",
+                        "Weight": "70"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "20",
+                        "Weight": "60"
+                    }
+                ]
+            },
+            {
+                "Name": "Leg Extensions",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "1BIIORHJ2XI",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "55"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "15",
+                        "Weight": "65"
+                    }
+                ]
+            },
+            {
+                "Name": "Standing Lunges",
+                "Set Type": "",
+                "Type": "reps",
+                "MachineSettings": "#",
+                "videoId": "LCWWq3Lx2Sk",
+                "Sets": [
+                    {
+                        "Name": "Set 1",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "55"
+                    },
+                    {
+                        "Name": "Set 2",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "8",
+                        "Weight": "60"
+                    },
+                    {
+                        "Name": "Set 3",
+                        "Type": "reps",
+                        "Rest Time": "90",
+                        "Volume": "6",
+                        "Weight": "65"
+                    }
+                ]
+            }
+        ]
+    }
+}

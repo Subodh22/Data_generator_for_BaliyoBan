@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Day 1",
+        "id": "1",
+        "topics": [
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            }
+        ]
+    },
+    {
+        "name": "Day 2",
+        "id": "2",
+        "topics": [
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            },
+            {
+                "name": "Running 4 miles",
+                "type": "Workout",
+                "proofType": "pic",
+                "workoutId": 35
+            }
+        ]
+    }
+]
